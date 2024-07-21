@@ -1,1 +1,4 @@
 
+[submodule "hmmer"]
+	path = hmmer
+	url = https://github.com/jianshu93/hmmer
