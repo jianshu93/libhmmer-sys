@@ -5,7 +5,7 @@ edition = "2021"
 links = "hmmer"
 description = "Rust bindings to libhmmer and libeasel"
 repository = "https://github.com/jianshu93/libhmmer-sys"
-categories = ["external-ffi-bindings", "science", "hmm"]
+categories = ["external-ffi-bindings", "science"]
 license = "BSD-3-Clause"
 readme = "README.md"
 
